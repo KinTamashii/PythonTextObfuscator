@@ -1,5 +1,7 @@
 # PythonTextObfuscator
 Takes a string and puts it through different languages in Google Translate a requested amount of times, returning nonsense.
+<img width="1552" alt="Screen Shot 2021-12-22 at 8 50 50 PM" src="https://user-images.githubusercontent.com/77307334/147175650-733e3d56-f70c-40ab-a084-7e8b44bec674.png">
+
 
 Requirments:
   python3
