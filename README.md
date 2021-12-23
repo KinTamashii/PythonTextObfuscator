@@ -3,7 +3,7 @@ Takes a string and puts it through different languages in Google Translate a req
 ![Example](https://user-images.githubusercontent.com/77307334/147175650-733e3d56-f70c-40ab-a084-7e8b44bec674.png)
 
 
-Requirments:
+Requirements:
 
     python3
     
